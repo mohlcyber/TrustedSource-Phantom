@@ -12,7 +12,7 @@ The app supports the following actions:
 
 **Phantom** is a community powered security automation and orchestration platform. https://www.phantom.us/
 
-**McAfee TrustedSource** is an online reputation service for URL categorization and risk level determination
+**McAfee TrustedSource** is an online reputation service for URL categorization and risk level determination. https://trustedsource.org/
 
 ## Prerequisites
 
